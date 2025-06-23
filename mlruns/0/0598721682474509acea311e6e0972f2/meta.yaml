@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DSAWS/mlruns/0/0598721682474509acea311e6e0972f2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0598721682474509acea311e6e0972f2
+run_name: unleashed-gnu-562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750707179901
+status: 1
+tags: []
+user_id: ashar
